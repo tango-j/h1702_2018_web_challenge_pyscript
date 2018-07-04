@@ -1,4 +1,4 @@
-# h1702_2018_web_challenge_pyscript
+# h1702_2018_web_challenge
 Python script used to automate the retrival of id of the flag
 
 h1702-web challenge was quite interesting although I was not able to retrive the flag.
