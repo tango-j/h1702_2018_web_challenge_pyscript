@@ -20,3 +20,5 @@ Brief Summary of the challenge:
 -User with id as 1 had a note with epoch 1528911533 was the flag for whoes ID was supposed to be retrived so that we could read the flag.
 
 Automating the retrival of ID with a python script executing a linear search instead of a binary search(much easier).
+
+Please note the First letter E was mannually found and hardcoded in the script for ease..
